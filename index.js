@@ -1,5 +1,5 @@
-console.log("Welcome to the git course");
+console.log("Welcome to the git playlist");
 
 for (var i=0;i<5;i++){
-    confirm.log("Code");
+    console.log("code io");
 }
